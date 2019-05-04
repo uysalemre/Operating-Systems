@@ -1,6 +1,6 @@
 ## ELEVATOR-SIMULATION-SEMAPHORES-SHAREDMEMORY
 
-![ELEVATOR ALGORITHM](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj5s6SH6YLiAhUCsKQKHSGuCZMQjRx6BAgBEAU&url=https%3A%2F%2Fpeople.ece.cornell.edu%2Fland%2Fcourses%2Fece4760%2FFinalProjects%2Fs2007%2Faoc6_dah64%2Faoc6_dah64%2Findex.html&psig=AOvVaw2sj97OfvVgZ0b6lwDPwJGm&ust=1557091772300577)
+![ELEVATOR ALGORITHM(https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2007/aoc6_dah64/aoc6_dah64/states.png)
 
 HOW TO RUN?
 
@@ -18,7 +18,7 @@ Elevator is parent process.
 
 A random number defines the time for spending in a floor. After waiting person calls the elevator.
 
-PERSON PSEUDO CODE
+### PERSON PSEUDO CODE
 
   Start
 
@@ -36,7 +36,7 @@ PERSON PSEUDO CODE
 
   End
  
-ELEVATOR PSEUDO CODE
+### ELEVATOR PSEUDO CODE
   
   Start( 1 st floor)
   

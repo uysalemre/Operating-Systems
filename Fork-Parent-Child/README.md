@@ -9,6 +9,10 @@
       - 2 nd child
         - Child of 2nd child
         
+## Extra Knowledge ? 
+   - You can't manage when will a process end or you can't order them to work. So you must sleep it or other ways :
+   - Other ways : You can use Semaphores.
+   
 ## How to see processes in Linux ? 
    - you can use command : top
    - another way is : ps -aux 

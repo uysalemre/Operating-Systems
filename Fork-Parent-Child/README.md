@@ -9,7 +9,7 @@
       - 2 nd child
         - Child of 2nd child
         
-## How to see processes in Linux ? 
+## How to see processes in Linux ? 
    - you can use command : top
    - another way is : ps -aux 
    

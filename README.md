@@ -1,2 +1,6 @@
-# Operating-Systems
-This Repository Contains Operating Systems Course Projects of ITU. You can find FORK - SHARED MEMORY - SEMAPHORES implementations in here. Also you can see the complete elevator simulation with Semaphores and Shared Memory.
+## Operating Systems Projects
+  - You can find FORK - SHARED MEMORY - SEMAPHORES implementations in here.
+  - [This project contains a how to use fork .](Fork-Parent-Child/)
+  - [Complete Elevator Simulation with Fork-Shared Memory-Semaphores](Semaphores-Shared-Memory-Elevator-Simulation/)
+  - [Array Sorting with using Fork-Shared Memory-Semaphores](Sorting-With-Fork-Semaphores-Shared-Memory/)
+  - Detailed explanations are included in projects and codes.

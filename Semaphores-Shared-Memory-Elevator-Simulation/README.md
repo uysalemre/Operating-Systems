@@ -1,6 +1,6 @@
 ## ELEVATOR-SIMULATION-SEMAPHORES-SHAREDMEMORY
 
-![ELEVATOR ALGORITHM(https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2007/aoc6_dah64/aoc6_dah64/states.png)
+![ELEVATOR ALGORITHM](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2007/aoc6_dah64/aoc6_dah64/states.png)
 
 HOW TO RUN?
 
